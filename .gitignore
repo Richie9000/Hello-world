@@ -1,0 +1,8 @@
+# Ignore node modules
+node_modules/
+# Ignore test file
+test.md
+# Ignore hintrc
+.hintrc
+# Ignore style
+.stylelintrc.json
